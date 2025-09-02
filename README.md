@@ -37,3 +37,8 @@ React · TypeScript · Redux Toolkit · RTK Query · Jest · Storybook · Cypres
 ## 📫 Contacts
 ✉️ konovalov.vasiliy97@yandex.ru  
 🐦 [Twitter](https://twitter.com/Vasiliy997)  
+
+
+<p align="center">
+  <img src="./assets/football-bounce.svg" width="360" alt="Football animation" />
+</p>
