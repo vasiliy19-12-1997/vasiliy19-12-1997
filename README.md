@@ -12,10 +12,11 @@ React · TypeScript · Redux Toolkit · RTK Query · Jest · Storybook · Cypres
 ## 🌍 Проекты
 - [big-react-app](https://github.com/vasiliy19-12-1997/big-react-app) — FSD архитектура, тесты, Storybook  
 - [atom-bim-site](https://github.com/vasiliy19-12-1997/atom-bim-site) — корпоративный сайт на React + TS + Express  
-
+## NPM Profile
+[npm-profile](https://www.npmjs.com/~steelguard)
 ## 📫 Контакты
-✉️ konovalov.vasiliy97@yandex.ru  
-🐦 [Twitter](https://twitter.com/Vasiliy997)  
+✉️ 49.changer_tole@icloud.com  
+🐦 [telegram](https://t.me/kebab_case304_8)  
 
 ---
 
@@ -35,8 +36,8 @@ React · TypeScript · Redux Toolkit · RTK Query · Jest · Storybook · Cypres
 - [atom-bim-site](https://github.com/vasiliy19-12-1997/atom-bim-site) — company website built with React + TS + Express  
 
 ## 📫 Contacts
-✉️ konovalov.vasiliy97@yandex.ru  
-🐦 [Twitter](https://twitter.com/Vasiliy997)  
+✉️ 49.changer_tole@icloud.com  
+🐦 [telegram](https://t.me/kebab_case304_8)  
 
 
 <p align="center">
