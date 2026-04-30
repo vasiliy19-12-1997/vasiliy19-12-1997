@@ -1,98 +1,128 @@
-# Привет 👋, я Василий
+# Hi there 👋, I'm Vasilii
 
-Frontend Developer (React + TypeScript) · BIM-координатор
+I'm a frontend developer focused on **React** and **TypeScript**.
 
-Я развиваюсь в frontend-разработке, строю проекты на React + TypeScript и уделяю внимание архитектуре, качеству кода и удобству поддержки приложений. Параллельно работаю BIM-координатором, поэтому умею смотреть на задачи системно, учитывать бизнес-контекст и доводить решения до рабочего результата.
+I like building practical projects: web apps, dashboards, Telegram bots, automation tools, and small fullstack experiments.  
+I also work as a **BIM Coordinator**, so I’m used to thinking about real business processes, not just code.
 
-## 🚀 Сейчас фокусируюсь на
-- разработке и развитии **big-react-app**
-- углублении знаний в **React**, **TypeScript** и архитектуре frontend-приложений
-- изучении **SSR**, **оптимизации рендера** и современных подходов к производительности
-- улучшении навыков тестирования и проектирования масштабируемых интерфейсов
-
-## 🔧 Технологии и инструменты
-**Frontend:** React, TypeScript, JavaScript, Redux Toolkit, RTK Query  
-**Тестирование:** Jest, Cypress  
-**UI / DX:** Storybook, SCSS, CSS Modules  
-**Сборка и архитектура:** Webpack, FSD  
-**Backend / API:** Express, REST API  
-**Инструменты:** Git, npm
-
-## 🌍 Проекты
-
-### [big-react-app](https://github.com/vasiliy19-12-1997/big-react-app)
-Учебно-практический frontend-проект, в котором я отрабатываю:
-- архитектуру **Feature-Sliced Design**
-- типизацию на **TypeScript**
-- настройку **Webpack**
-- компонентный подход через **Storybook**
-- тестирование с **Jest** и **Cypress**
-
-### [atom-bim-site](https://github.com/vasiliy19-12-1997/atom-bim-site)
-Корпоративный сайт, разработанный на **React + TypeScript + Express**.  
-В проекте работаю с UI, структурой приложения, поддержкой и развитием функциональности.
-
-## 📦 NPM
-- [npm-profile](https://www.npmjs.com/~steelguard)
-
-## 💡 Интересы
-- frontend-разработка
-- архитектура приложений
-- производительность интерфейсов
-- инвестиции
-- путешествия
-
-## 📫 Контакты
-- Email: [49.changer_tole@icloud.com](mailto:49.changer_tole@icloud.com)
-- Telegram: [@kebab_case304_8](https://t.me/kebab_case304_8)
+My goal is to build clean, useful, and maintainable products.
 
 ---
 
-# Hi there 👋, I'm Vasiliy
+## What I'm working on
 
-Frontend Developer (React + TypeScript) · BIM Coordinator
+- React + TypeScript projects
+- frontend architecture and **Feature-Sliced Design**
+- performance, SSR, and render optimization
+- testing with **Jest** and **Cypress**
+- backend basics with **Node.js** and **Express**
+- Telegram bots, dashboards, and automation tools
+- cloud deployment with free and modern services
 
-I am growing as a frontend developer, building applications with React and TypeScript, and focusing on architecture, code quality, and maintainable interfaces. Alongside that, I work as a BIM Coordinator, which helps me approach tasks systematically, understand business needs, and deliver practical solutions.
+---
 
-## 🚀 Current focus
-- building and improving **big-react-app**
-- deepening my knowledge of **React**, **TypeScript**, and frontend architecture
-- learning **SSR**, **render optimization**, and performance best practices
-- improving testing skills and designing scalable UI solutions
+## Tech Stack
 
-## 🔧 Tech Stack
 **Frontend:** React, TypeScript, JavaScript, Redux Toolkit, RTK Query  
+**Styling:** SCSS, CSS Modules  
+**Architecture:** Feature-Sliced Design  
 **Testing:** Jest, Cypress  
-**UI / DX:** Storybook, SCSS, CSS Modules  
-**Build & Architecture:** Webpack, FSD  
-**Backend / API:** Express, REST API  
-**Tools:** Git, npm
+**Backend:** Node.js, Express, REST API  
+**Database:** Supabase  
+**Deployment:** Vercel, Koyeb, Google Cloud, UptimeRobot  
+**Tools:** Git, GitHub, npm, Docker basics, Webpack, Vite  
 
-## 🌍 Projects
+---
+
+## Projects
 
 ### [big-react-app](https://github.com/vasiliy19-12-1997/big-react-app)
-A practice-focused frontend project where I work on:
-- **Feature-Sliced Design** architecture
-- strong typing with **TypeScript**
-- **Webpack** setup and configuration
-- component-driven development with **Storybook**
-- testing with **Jest** and **Cypress**
 
-### [atom-bim-site](https://github.com/vasiliy19-12-1997/atom-bim-site)
-A corporate website built with **React + TypeScript + Express**.  
-In this project, I work on UI, application structure, maintenance, and feature development.
+A large practice project where I work with real frontend architecture.
 
-## 📦 NPM
+I use it to practice:
+
+- Feature-Sliced Design
+- TypeScript
+- Webpack
+- Redux Toolkit and RTK Query
+- Storybook
+- Jest and Cypress
+
+This project helps me understand how scalable frontend apps are built and maintained.
+
+---
+
+### AtomBIM Site
+
+A new corporate website built with **React, TypeScript, and Express**.
+
+This project connects my frontend skills with my BIM background.  
+I work on UI, app structure, backend integration, and features for displaying BIM instructions and internal documentation.
+
+---
+
+### Telegram Chat Bot
+
+A Telegram bot built with **TypeScript**, **Node.js**, **grammY**, and **Express**.
+
+I deployed it on **Koyeb**, connected **Supabase** for data storage, and used **UptimeRobot** to keep it available on free hosting.
+
+This project helped me practice backend logic, API integration, deployment, and real service maintenance.
+
+---
+
+### Finance Tracker
+
+A personal finance app for tracking income, expenses, assets, and financial goals.
+
+Built with **React** and **Supabase**.  
+I use it for real personal finance tracking, so it helps me think more like a product developer.
+
+---
+
+### Crypto Trading Bot Experiment
+
+A crypto trading bot experiment based on an open-source project fork.
+
+I deployed it on **Google Cloud** using free trial infrastructure and tested it with a demo trading account.
+
+In this project, I worked with Docker, exchange API configuration, strategy testing, Telegram notifications, and a web dashboard.
+
+---
+
+## How I learn
+
+I like learning by building real things.
+
+For me, a project is not finished when it only works locally.  
+I try to deploy it, connect real services, test it, and improve it step by step.
+
+I also like using free and modern cloud tools because they help me learn deployment and infrastructure without unnecessary costs.
+
+---
+
+## NPM
+
 - [npm-profile](https://www.npmjs.com/~steelguard)
 
-## 💡 Interests
+---
+
+## Interests
+
 - frontend development
 - software architecture
 - UI performance
+- automation
+- BIM and construction digitalization
+- personal finance
 - investments
 - traveling
 
-## 📫 Contacts
+---
+
+## Contacts
+
 - Email: [49.changer_tole@icloud.com](mailto:49.changer_tole@icloud.com)
 - Telegram: [@kebab_case304_8](https://t.me/kebab_case304_8)
 
