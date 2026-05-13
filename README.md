@@ -55,15 +55,20 @@ This project helps me understand how scalable frontend apps are built and mainta
 
 ### AtomBIM Site
 
+### [atom-bim-site-new](https://atom-bim-site-new-877766054154.europe-west1.run.app/)
+
 A new corporate website built with **React, TypeScript, and Express**.
 
 This project connects my frontend skills with my BIM background.  
 I work on UI, app structure, backend integration, and features for displaying BIM instructions and internal documentation.
-[atom-bim-site-new](https://atom-bim-site-new-877766054154.europe-west1.run.app/)
+
 ---
 
 ### Telegram Chat Bot
-
+<p align="center">
+  <img src="./assets/askChat.png" width="600" height="1000" alt="chat-bot1" />
+  <img src="./assets/addRemind.png" width="600" height="400" alt="chat-bot2" />
+</p>
 A Telegram bot built with **TypeScript**, **Node.js**, **grammY**, and **Express**.
 
 I deployed it on **Koyeb**, connected **Supabase** for data storage, and used **UptimeRobot** to keep it available on free hosting.
@@ -73,7 +78,10 @@ This project helped me practice backend logic, API integration, deployment, and 
 ---
 
 ### Finance Tracker
-
+<p align="center">
+  <img src="./assets/finance1.png" width="500"  alt="finance1" />
+  <img src="./assets/finance2.png" width="500"  alt="finance2" />
+</p>
 A personal finance app for tracking income, expenses, assets, and financial goals.
 
 Built with **React** and **Supabase**.  
@@ -82,7 +90,11 @@ I use it for real personal finance tracking, so it helps me think more like a pr
 ---
 
 ### Crypto Trading Bot Experiment
-
+### [crypto-trading-bot](http://34.13.162.136:55555/)
+<p align="center">
+  <img src="./assets/signals.png" width="700" height="500" alt="trade-signals" />
+  <img src="./assets/dashboard.png" width="700" height="500" alt="trade-dashboard" />
+</p>
 A crypto trading bot experiment based on an open-source project fork.
 
 I deployed it on **Google Cloud** using free trial infrastructure and tested it with a demo trading account.
