@@ -66,7 +66,6 @@ I work on UI, app structure, backend integration, and features for displaying BI
 
 ### Telegram Chat Bot
 <p align="center">
-  <img src="./assets/askChat.png" width="600" height="1000" alt="chat-bot1" />
   <img src="./assets/addRemind.png" width="600" height="400" alt="chat-bot2" />
 </p>
 A Telegram bot built with **TypeScript**, **Node.js**, **grammY**, and **Express**.
