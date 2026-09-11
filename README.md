@@ -1,143 +1,320 @@
-# Hi there 👋, I'm Vasilii  
+# Hi, I'm Vasilii 👋
 
-### [my-site](https://konovalov-bim-lab.vercel.app/)
+### Frontend Developer · React · TypeScript · BIM Automation
 
-I'm a frontend developer focused on **React** and **TypeScript**.
+I build practical web applications, dashboards, automation tools, Telegram bots, and fullstack services.
 
-I like building practical projects: web apps, dashboards, Telegram bots, automation tools, and small fullstack experiments.  
-I also work as a **BIM Coordinator**, so I’m used to thinking about real business processes, not just code.
+My main stack is **React + TypeScript**, but I also work with backend development, databases, deployment, and automation.
 
-My goal is to build clean, useful, and maintainable products.
+Alongside software development, I work as a **BIM Coordinator**, which gives me experience with real business processes, construction workflows, documentation, automation, and digitalization.
+
+🌐 **Portfolio:** [konovalov-bim-lab.vercel.app](https://konovalov-bim-lab.vercel.app/)
 
 ---
 
-## What I'm working on
+## About me
 
-- React + TypeScript projects
-- frontend architecture and **Feature-Sliced Design**
-- performance, SSR, and render optimization
-- testing with **Jest** and **Cypress**
-- backend basics with **Node.js** and **Express**
-- Telegram bots, dashboards, and automation tools
-- cloud deployment with free and modern services
+- Frontend development with **React + TypeScript**
+- Scalable frontend architecture
+- Feature-Sliced Design
+- REST API integration
+- State management with Redux Toolkit / RTK Query
+- Testing with Jest and Cypress
+- Backend development with Node.js / Express
+- PostgreSQL / Supabase
+- Telegram bots and automation
+- Docker and cloud deployment
+- BIM workflows and construction digitalization
+
+I prefer learning through real projects.
+
+My goal is not just to make something work locally, but to build, deploy, test, maintain, and improve real products.
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, JavaScript, Redux Toolkit, RTK Query  
-**Styling:** SCSS, CSS Modules  
-**Architecture:** Feature-Sliced Design  
-**Testing:** Jest, Cypress  
-**Backend:** Node.js, Express, REST API  
-**Database:** Supabase  
-**Deployment:** Vercel, Koyeb, Google Cloud, UptimeRobot  
-**Tools:** Git, GitHub, npm, Docker basics, Webpack, Vite  
+### Frontend
+
+`React` `TypeScript` `JavaScript` `Redux Toolkit` `RTK Query`
+
+`SCSS` `CSS Modules` `Webpack` `Vite` `Storybook`
+
+### Architecture & Testing
+
+`Feature-Sliced Design` `Jest` `Cypress`
+
+### Backend
+
+`Node.js` `Express` `REST API`
+
+### Database
+
+`Supabase` `PostgreSQL`
+
+### DevOps & Deployment
+
+`Docker` `Vercel` `Koyeb` `Google Cloud` `UptimeRobot`
+
+### Tools
+
+`Git` `GitHub` `npm`
 
 ---
 
-## Projects
+# Featured Projects
 
-### [big-react-app](https://github.com/vasiliy19-12-1997/big-react-app)
+## Big React App
 
-A large practice project where I work with real frontend architecture.
+A large frontend practice project focused on scalable architecture and modern React development.
 
-I use it to practice:
+**Stack:** React, TypeScript, Redux Toolkit, RTK Query, Webpack, Storybook, Jest, Cypress
+
+[View repository →](https://github.com/vasiliy19-12-1997/big-react-app)
+
+<details>
+<summary><strong>More about the project</strong></summary>
+
+<br>
+
+This project is my main environment for practicing production-style frontend architecture.
+
+### What I work on
 
 - Feature-Sliced Design
+- reusable UI architecture
 - TypeScript
-- Webpack
-- Redux Toolkit and RTK Query
+- Webpack configuration
+- Redux Toolkit
+- RTK Query
 - Storybook
-- Jest and Cypress
+- unit testing with Jest
+- end-to-end testing with Cypress
+- application performance
+- maintainability and scalability
 
-This project helps me understand how scalable frontend apps are built and maintained.
+The project helps me understand how larger frontend applications should be structured and maintained.
 
----
-
-### AtomBIM Site
-
-### [atom-bim-site-new](https://atom-bim-site-new-877766054154.europe-west1.run.app/)
-
-A new corporate website built with **React, TypeScript, and Express**.
-
-This project connects my frontend skills with my BIM background.  
-I work on UI, app structure, backend integration, and features for displaying BIM instructions and internal documentation.
+</details>
 
 ---
 
-### Telegram Chat Bot
+## AtomBIM
+
+A web platform that combines my frontend development experience with my BIM background.
+
+**Stack:** React, TypeScript, Express
+
+[Open project →](https://atom-bim-site-new-877766054154.europe-west1.run.app/)
+
+<details>
+<summary><strong>More about the project</strong></summary>
+
+<br>
+
+AtomBIM is focused on displaying BIM documentation, instructions, internal materials, and construction-related information.
+
+### What I worked on
+
+- frontend architecture
+- UI development
+- React components
+- TypeScript
+- Express backend
+- API integration
+- BIM documentation structure
+- deployment
+
+This project is especially important to me because it connects software development with real construction and BIM workflows.
+
+</details>
+
+---
+
+## Telegram Bot
+
+A Telegram automation service built with TypeScript and Node.js.
+
+**Stack:** TypeScript, Node.js, grammY, Express, Supabase, Koyeb
+
+<details>
+<summary><strong>Show project details</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="./assets/addRemind.png" width="600" height="400" alt="chat-bot2" />
+  <img src="./assets/addRemind.png" width="600" alt="Telegram bot" />
 </p>
-A Telegram bot built with **TypeScript**, **Node.js**, **grammY**, and **Express**.
 
-I deployed it on **Koyeb**, connected **Supabase** for data storage, and used **UptimeRobot** to keep it available on free hosting.
+### Features and technologies
 
-This project helped me practice backend logic, API integration, deployment, and real service maintenance.
+- Telegram Bot API
+- grammY
+- backend logic with Node.js
+- Express
+- Supabase
+- deployment on Koyeb
+- uptime monitoring with UptimeRobot
+- persistent storage
+- production deployment
+
+This project helped me practice backend development, external APIs, cloud deployment, and maintaining a real service.
+
+</details>
 
 ---
 
-### Finance Tracker
+## Finance Tracker
+
+A personal finance application for tracking income, expenses, assets, and financial goals.
+
+**Stack:** React, TypeScript, Supabase
+
+<details>
+<summary><strong>Show project details</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="./assets/finance1.png" width="500"  alt="finance1" />
-  <img src="./assets/finance2.png" width="500"  alt="finance2" />
+  <img src="./assets/finance1.png" width="480" alt="Finance tracker dashboard" />
+  <img src="./assets/finance2.png" width="480" alt="Finance tracker analytics" />
 </p>
-A personal finance app for tracking income, expenses, assets, and financial goals.
 
-Built with **React** and **Supabase**.  
-I use it for real personal finance tracking, so it helps me think more like a product developer.
+The application is used for real personal finance tracking.
+
+### Main ideas
+
+- income tracking
+- expense tracking
+- asset tracking
+- financial goals
+- dashboards
+- persistent data storage
+- real-world product usage
+
+Building a tool that I actually use helps me think not only as a developer, but also as a product developer.
+
+</details>
 
 ---
 
-### Crypto Trading Bot Experiment
-### [crypto-trading-bot](http://34.13.162.136:55555/)
+## Crypto Trading Bot Experiment
+
+An infrastructure and automation experiment based on an open-source trading project.
+
+**Stack:** Docker, Google Cloud, Exchange APIs, Telegram, Web Dashboard
+
+[Open project →](http://34.13.162.136:55555/)
+
+<details>
+<summary><strong>Show project details</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="./assets/signals.png" width="700" height="500" alt="trade-signals" />
-  <img src="./assets/dashboard.png" width="700" height="500" alt="trade-dashboard" />
+  <img src="./assets/signals.png" width="700" alt="Trading signals" />
 </p>
-A crypto trading bot experiment based on an open-source project fork.
 
-I deployed it on **Google Cloud** using free trial infrastructure and tested it with a demo trading account.
+<p align="center">
+  <img src="./assets/dashboard.png" width="700" alt="Trading dashboard" />
+</p>
 
-In this project, I worked with Docker, exchange API configuration, strategy testing, Telegram notifications, and a web dashboard.
+### What I worked with
 
----
+- Docker
+- Google Cloud
+- exchange API configuration
+- demo trading account
+- trading strategy testing
+- Telegram notifications
+- web dashboard
+- cloud infrastructure
 
-## How I learn
+The goal of this project was mainly to practice deployment, infrastructure, APIs, and automation.
 
-I like learning by building real things.
-
-For me, a project is not finished when it only works locally.  
-I try to deploy it, connect real services, test it, and improve it step by step.
-
-I also like using free and modern cloud tools because they help me learn deployment and infrastructure without unnecessary costs.
-
----
-
-## NPM
-
-- [npm-profile](https://www.npmjs.com/~steelguard)
+</details>
 
 ---
 
-## Interests
+# BIM + Development
 
-- frontend development
-- software architecture
-- UI performance
+One of my strongest advantages is the combination of software development and BIM experience.
+
+I understand both:
+
+**software side**
+- frontend architecture
+- backend services
+- APIs
+- databases
 - automation
-- BIM and construction digitalization
-- personal finance
-- investments
-- traveling
+
+and
+
+**construction side**
+- BIM coordination
+- Revit workflows
+- documentation
+- engineering processes
+- digital construction workflows
+
+My long-term goal is to build tools that automate BIM processes and connect construction workflows with modern web technologies.
 
 ---
 
-## Contacts
+# What I'm Learning Now
 
-- Email: [49.changer_tole@icloud.com](mailto:49.changer_tole@icloud.com)
-- Telegram: [@kebab_case304_8](https://t.me/kebab_case304_8)
+- advanced React architecture
+- TypeScript
+- frontend performance
+- SSR
+- rendering optimization
+- backend development
+- databases
+- Docker
+- cloud infrastructure
+- BIM automation
+- English
+
+---
+
+# NPM
+
+📦 [npm.com/~steelguard](https://www.npmjs.com/~steelguard)
+
+---
+
+# Interests
+
+`Frontend Development`
+
+`Software Architecture`
+
+`BIM`
+
+`Automation`
+
+`Construction Digitalization`
+
+`Cloud Infrastructure`
+
+`Personal Finance`
+
+`Investments`
+
+`Travel`
+
+---
+
+# Contact
+
+📧 **Email:** [49.changer_tole@icloud.com](mailto:49.changer_tole@icloud.com)
+
+💬 **Telegram:** [@kebab_case304_8](https://t.me/kebab_case304_8)
+
+🌐 **Website:** [konovalov-bim-lab.vercel.app](https://konovalov-bim-lab.vercel.app/)
+
+---
 
 <p align="center">
   <img src="./assets/football-bounce.svg" width="360" alt="Football animation" />
